@@ -69,7 +69,7 @@ This repository contains my solutions for [CSES Problemset](https://cses.fi/prob
 
 
 
-### Dynamic Programming Problems
+# Dynamic Programming Problems
 
 | Problem                | Link                                                               |
 |------------------------|--------------------------------------------------------------------|
