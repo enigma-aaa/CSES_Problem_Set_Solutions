@@ -41,8 +41,8 @@ This repository contains my solutions for [CSES Problemset](https://cses.fi/prob
 | Stick Lengths            | [Solution](./Sorting_and_Searching/Stick_Lengths.cpp)                    |
 | Movie Festival           | [Solution](./Sorting_and_Searching/Movie_Festival.cpp)                   |
 | Towers                   | [Solution](./Sorting_and_Searching/Towers.cpp)                         |
-<!-- | Playlist                 | [Solution](./Sorting_and_Searching/Playlist.cpp)                       |
-| Collecting Numbers       | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp)               |
+| Playlist                 | [Solution](./Sorting_and_Searching/Playlist.cpp)                       |
+<!--| Collecting Numbers       | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp)               |
 | Missing Coin Sum         | [Solution](./Sorting_and_Searching/Missing_Coin_Sum.cpp)                 |
 | Subarray Sums I          | [Solution](./Sorting_and_Searching/Subarray_Sums_I.cpp)                  |
 | Factory Machines         | [Solution](./Sorting_and_Searching/Factory_Machines.cpp)                 |
@@ -66,3 +66,29 @@ This repository contains my solutions for [CSES Problemset](https://cses.fi/prob
 | Josephus Problem II      | [Solution](./Sorting_and_Searching/Josephus_Problem_II.cpp)              |
 | Sliding Window Cost      | [Solution](./Sorting_and_Searching/Sliding_Window_Cost.cpp)              |
 | Nested Ranges Count      | [Solution](./Sorting_and_Searching/Nested_Ranges_Count.cpp)              | -->
+
+
+
+### Dynamic Programming Problems
+
+| Problem                | Link                                                               |
+|------------------------|--------------------------------------------------------------------|
+| Dice Combinations      | [Solution](./Dynamic_Programming/Dice_Combinations.cpp)            |
+| Minimizing Coins       | [Solution](./Dynamic_Programming/Minimizing_Coins.cpp)             |
+| Coin Combinations I    | [Solution](./Dynamic_Programming/Coin_Combinations_I.cpp)          |
+| Removing Digits        | [Solution](./Dynamic_Programming/Removing_Digits.cpp)              |
+<!-- | Grid Paths             | [Solution](./Dynamic_Programming/Grid_Paths.cpp)                   |
+| Coin Combinations II   | [Solution](./Dynamic_Programming/Coin_Combinations_II.cpp)         |
+| Book Shop              | [Solution](./Dynamic_Programming/Book_Shop.cpp)                    |
+| Edit Distance          | [Solution](./Dynamic_Programming/Edit_Distance.cpp)                |
+| Money Sums             | [Solution](./Dynamic_Programming/Money_Sums.cpp)                   |
+| Array Description      | [Solution](./Dynamic_Programming/Array_Description.cpp)            |
+| Rectangle Cutting      | [Solution](./Dynamic_Programming/Rectangle_Cutting.cpp)            |
+| Increasing Subsequence | [Solution](./Dynamic_Programming/Increasing_Subsequence.cpp)       |
+| Two Sets II            | [Solution](./Dynamic_Programming/Two_Sets_II.cpp)                  |
+| Removal Game           | [Solution](./Dynamic_Programming/Removal_Game.cpp)                 |
+| Counting Towers        | [Solution](./Dynamic_Programming/Counting_Towers.cpp)              |
+| Projects               | [Solution](./Dynamic_Programming/Projects.cpp)                     |
+| Elevator Rides         | [Solution](./Dynamic_Programming/Elevator_Rides.cpp)               |
+| Counting Numbers       | [Solution](./Dynamic_Programming/Counting_Numbers.cpp)             |
+| Counting Tilings       | [Solution](./Dynamic_Programming/Counting_Tilings.cpp)             | -->
