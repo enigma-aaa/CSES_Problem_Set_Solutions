@@ -21,8 +21,8 @@ This repository contains my solutions for [CSES Problemset](https://cses.fi/prob
 | Creating Strings      | [Solution](./Introductory_Problems/Creating_Strings.cpp)          |
 | Apple Division        | [Solution](./Introductory_Problems/Apple_Division.cpp)            |
 | Gray Code             | [Solution](./Introductory_Problems/Gray_Code.cpp)                 |
-<!-- | Tower of Hanoi        | [Solution](./Introductory_Problems/Tower_of_Hanoi.cpp)            |
-| Chessboard and Queens | [Solution](./Introductory_Problems/Chessboard_and_Queens.cpp)     |
+| Tower of Hanoi        | [Solution](./Introductory_Problems/Tower_of_Hanoi.cpp)            |
+<!-- | Chessboard and Queens | [Solution](./Introductory_Problems/Chessboard_and_Queens.cpp)     |
 | Digit Queries         | [Solution](./Introductory_Problems/Digit_Queries.cpp)             |
 | Grid Paths            | [Solution](./Introductory_Problems/Grid_Paths.cpp)                | -->
 
@@ -42,10 +42,10 @@ This repository contains my solutions for [CSES Problemset](https://cses.fi/prob
 | Movie Festival           | [Solution](./Sorting_and_Searching/Movie_Festival.cpp)                   |
 | Towers                   | [Solution](./Sorting_and_Searching/Towers.cpp)                         |
 | Playlist                 | [Solution](./Sorting_and_Searching/Playlist.cpp)                       |
-<!--| Collecting Numbers       | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp)               |
+| Collecting Numbers       | [Solution](./Sorting_and_Searching/Collecting_Numbers.cpp)               |
 | Missing Coin Sum         | [Solution](./Sorting_and_Searching/Missing_Coin_Sum.cpp)                 |
 | Subarray Sums I          | [Solution](./Sorting_and_Searching/Subarray_Sums_I.cpp)                  |
-| Factory Machines         | [Solution](./Sorting_and_Searching/Factory_Machines.cpp)                 |
+<!--| Factory Machines         | [Solution](./Sorting_and_Searching/Factory_Machines.cpp)                 |
 | Sum of Three Values      | [Solution](./Sorting_and_Searching/Sum_of_Three_Values.cpp)              |
 | Traffic Lights           | [Solution](./Sorting_and_Searching/Traffic_Lights.cpp)                   |
 | Subarray Sums II         | [Solution](./Sorting_and_Searching/Subarray_Sums_II.cpp)                 |
